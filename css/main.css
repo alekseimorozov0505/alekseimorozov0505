@@ -49,9 +49,9 @@ style{
 }
 .btn {
     display: table; 
-    background: black; 
+    background: ; 
     color: white; 
     padding: 1rem 1.5rem; 
     text-decoration: none;
-    border: 3px solid Indigo; 
+    border: 0px solid Indigo; 
    }
