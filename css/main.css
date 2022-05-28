@@ -4,22 +4,24 @@
 	font-weight: normal;
 	font-style: normal;
 }
+
+}
 h1{
-	color: #3A0012;
+	color: white;
 	font-size: 48px;
 	font-family: 'Constantine', serif;
 }
 p{
-	color:  black;
+	color:  white;
 	font-size: 24px;
 	font-family: 'AMG Anahit', serif;
 }
 span{
-	background:  #C89055;
+	background: dodgerblue ;
 }
 a{
 	text-decoration: none;
-	color: black;
+	color: white;
 	font-size: 18px;
 	font-family: 'Znikomit': normal;
 	display: block;
@@ -28,7 +30,7 @@ a{
 div{
 	width: 80%;
 	margin: auto;
-	background-color: dodgerblue;
+	background-color: dodgerblu;
 	padding: 30px;
 }
 img{
@@ -39,16 +41,16 @@ img{
 }
 body{
 	font-size: 20px;
-	background-color: darkblue;
+	background-color: dodgerblue;
 }
 style{
-	fig 
+	
     text-align: center;
 }
 .btn {
     display: table; 
-    background: #E0B589; 
-    color: black; 
+    background: black; 
+    color: white; 
     padding: 1rem 1.5rem; 
     text-decoration: none;
     border: 3px solid Indigo; 
